@@ -1,6 +1,4 @@
-# PolkastarterToken
-
-Polka token
+# PolkaToken
 
 ## Deployments Mainnet
 
